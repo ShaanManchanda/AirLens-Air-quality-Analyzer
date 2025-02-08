@@ -61,4 +61,4 @@
   - Mean Absolute Percentage Error (MAPE): 21.06
   - Mean Absolute Error (MAE): 30.75
 - **Timelines:** March 2023 - May 2023
-- **Tech stack:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Plotly
+- **Tech stack:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Plotly, Flask
